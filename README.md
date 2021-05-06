@@ -6,3 +6,7 @@ um exemplo foi que sempre foi criado um jogador a mais na parte de mostrar a lis
 Também na parte de soma dos valores de salarios liquidos, INSS e Impostos para os times. 
 Geralmente o segundo time somava junto com os valores do primeiro time, um exemplo são os valores totais dos salariosLiquidos, tentei arrumar esses bugs, mas não consegui.
 Então foi isso que consegui, valeu!
+
+Grupo:
+- João Guilherme Heinrichs da Silveira;
+- Kevin Giedel.
